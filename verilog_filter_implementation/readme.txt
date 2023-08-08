@@ -1,0 +1,1 @@
+for the example verilog implementation, the maximum OSR is 1024. Once can change the register bitwidth as needed.
