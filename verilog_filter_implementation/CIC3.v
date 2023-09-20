@@ -1,4 +1,4 @@
-//CIC2 filter runing for 1024 cycles --> max decimation 341   
+//CIC3 filter runing for 1024 cycles --> max decimation 341   
 `timescale 1ns/1ns
 
 module CIC3 (input wire               clk,
